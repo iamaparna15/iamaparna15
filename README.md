@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aparna Kiran Bisoyee</h1>
-<h3 align="center">I'm a senior at VSSUT Burla, diving into the world of coding with unbridled enthusiasm. As I apply for fresher roles, I bring a passion for learning and a drive to turn challenges into results. I believe in the power of fresh perspectives and am excited to contribute innovative solutions while growing every step of the way.</h3>
+<p align="center">I'm a senior at VSSUT Burla, diving into the world of coding with unbridled enthusiasm. As I apply for fresher roles, I bring a passion for learning and a drive to turn challenges into results. I believe in the power of fresh perspectives and am excited to contribute innovative solutions while growing every step of the way.</p>
 
 - 🌱 I’m currently learning **Data Structures and Operating Systems**
 
